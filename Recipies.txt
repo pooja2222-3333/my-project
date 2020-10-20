@@ -1,5 +1,7 @@
 pasta
 pizza
 
+beans
+carrot
 
 thanku
